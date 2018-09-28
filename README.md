@@ -1,1 +1,1 @@
-# pivx-detached-sigs
+# odin-detached-sigs
